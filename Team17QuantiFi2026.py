@@ -18,7 +18,7 @@ LYCHEE_LIMIT = 200
 PARAMS = {
     "ema_span": 1000,
     "warmup": 50,
-    "take_edge": 4.0,
+    "take_edge": 3.0,
     "make_edge": 3.0,
     "skew": 3.0,
     "max_pos": 50,
