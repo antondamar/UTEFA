@@ -16,7 +16,7 @@ VOUCHER_LIMIT = 50
 LYCHEE_LIMIT = 200
 
 PARAMS = {
-    "ema_span": 800,
+    "ema_span": 1000,
     "warmup": 50,
     "take_edge": 4.0,
     "make_edge": 3.0,
